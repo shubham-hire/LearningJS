@@ -4,19 +4,34 @@
     background-color: beige;
 }
 
-button {
+/* button {
     background-color: khaki ;
     border: none;
     padding: 10px;
     font-size: 30px;
     cursor: pointer;
-}
+} */
 
-.box{
+/* .box{
     width: 100px;
     height: 100px;
     border: 2px solid red;
     background-color: cyan;
     text-align: center;
     margin: 10px;
+} */
+
+#box {
+    height: 100px;
+    width: 100px;
+    color: black;
+    background-color: aquamarine;
+}
+
+.para {
+    color: blue;
+}
+
+.newClass {
+    background-color: yellow;
 }
