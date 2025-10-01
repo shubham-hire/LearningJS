@@ -1,0 +1,13 @@
+.head1 {
+    color:green;
+    text-decoration: double ;
+    background-color: beige;
+}
+
+button {
+    background-color: khaki ;
+    border: none;
+    padding: 10px;
+    font-size: 30px;
+    cursor: pointer;
+}
