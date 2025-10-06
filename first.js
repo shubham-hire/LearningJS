@@ -8,15 +8,15 @@ console.log("I love shubham");
 
 console.log(24);
 
-// name = "shubham";
-// age = 19;
-// console.log(age);
-// a = null ;
-// console.log(a);
-// b = undefined ;
-// console.log(b);
-// isFollow = false ;
-// console.log(isFollow);
+name = "shubham";
+age = 19;
+console.log(age);
+a = null ;
+console.log(a);
+b = undefined ;
+console.log(b);
+isFollow = false ;
+console.log(isFollow);
 
 // var k = 10 ;
 // console.log(k) ;
