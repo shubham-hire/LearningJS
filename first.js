@@ -1,12 +1,12 @@
-// // console log is for printing inside console of the browser
+// console log is for printing inside console of the browser
 
-// console.log("Hello javascript");
+console.log("Hello javascript");
 
-// console.log("Shubham Hire");
+console.log("Shubham Hire");
 
-// console.log("I love shubham");
+console.log("I love shubham");
 
-// console.log(24);
+console.log(24);
 
 // name = "shubham";
 // age = 19;
