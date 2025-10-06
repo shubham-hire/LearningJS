@@ -31,27 +31,27 @@
 // newBtn.innerText = "click me" ;
 // console.log(newBtn);
 
-// let div = document.querySelector("div");
-// div.after(newBtn);
+let div = document.querySelector("div");
+div.after(newBtn);
 
 
-// let newHeading = document.createElement("h1");
-// newHeading.innerHTML = "<b>Hello</b>";
+let newHeading = document.createElement("h1");
+newHeading.innerHTML = "<b>Hello</b>";
 
-// document.querySelector("body").prepend(newHeading);
+document.querySelector("body").prepend(newHeading);
 
-// let para = document.querySelector("p");
-// para.remove();
+let para = document.querySelector("p");
+para.remove();
 
-// newHeading.remove();
+newHeading.remove();
 
-// let newBtn = document.createElement("button");
-// newBtn.innerText = "click me!";
+let newBtn = document.createElement("button");
+newBtn.innerText = "click me!";
 
-// newBtn.style.color = "white";
-// newBtn.style.backgroundColor = "green" ;
+newBtn.style.color = "white";
+newBtn.style.backgroundColor = "green" ;
 
-// document.querySelector("body").prepend(newBtn);
+document.querySelector("body").prepend(newBtn);
 
 let paragraph = document.querySelector("p");
 paragraph.classList.add("newClass");
