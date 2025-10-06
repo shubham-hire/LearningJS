@@ -38,15 +38,14 @@ console.log("SHubha");
 
 
 
-//Number guessing game
+// Number guessing game
 
-// let a = prompt("Guess your number");
-// let number = 25 ;
-// let a = prompt("Enter number");
-// while(a != number) {
-//     console.log("Wrong number");
-// }
-// console.log("Congrats");
+let a = prompt("Guess your number");
+let number = 25 ;
+while(a != number) {
+    console.log("Wrong number");
+}
+console.log("Congrats");
 
 
 //Strings
